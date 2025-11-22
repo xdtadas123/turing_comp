@@ -1,2 +1,2 @@
 # turing_comp
-Somehow tyring to make this user friendly.
+Somehow trying to make this user-friendly.
